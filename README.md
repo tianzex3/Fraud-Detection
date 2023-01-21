@@ -5,7 +5,7 @@ __.__
 
 ## Methodology
 Tool: Jupyter Notebook, Google Colab <br>
-File Type: csv <br>
+File Type: .csv <br>
 Language: Python <br>
 Packages: sklearn, numpy, pandas, matplotlib.pyplot  <br>
 Method and Techniques: Oversampling, Logistic Regression, Decision Tree, Random Forest, xgBoost, ROC Curve, Confusion Matrix <br>
