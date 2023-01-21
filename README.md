@@ -11,7 +11,7 @@ Packages: sklearn, numpy, pandas, matplotlib.pyplot  <br>
 Method and Techniques: Oversampling, Logistic Regression, Decision Tree, Random Forest, xgBoost, ROC Curve, Confusion Matrix <br>
 
 ## Available Data
-
+~ 1 million transaction records
 
 ## The Objective
 
