@@ -16,13 +16,13 @@ Method and Techniques: Oversampling, Logistic Regression, Decision Tree, Random 
 The Chief Technology Officer of Broom Solutions, Glinda Broom, has requested your team provide a review of the credit card fraud detection approach and detail on the model or models being employed.
 
 ## Problem
-__Too Good at Fraud Detection:__
+__1. Too Good at Fraud Detection:__
 Broom Solutions current fraud system catches 98% of fraudulent transactions.
 
-__Flagging the innocent:__
+__2. Flagging the innocent:__
 Non fraudulent transactions flagged as fraud 6% of the time.
 
-__Client Complaints:__
+__3. Client Complaints:__
 Retail and ecommerce clients complain of losing long term business from customer frustration. 
 
 ## Conclusion
