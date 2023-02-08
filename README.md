@@ -26,6 +26,7 @@ __3. Client Complaints:__
 Retail and ecommerce clients complain of losing long term business from customer frustration. 
 
 ## Conclusion
+Precision is more important in this case, where False Alarms (False Positives), are more costly than Overlooked Cases (False Negatives)
 __When the amount <$600:__ allow more fraud trasctions (reducing false positive)
 
 __When the amount >=$600:__ allow less fraud trasctions (increasing model precision)
