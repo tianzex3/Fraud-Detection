@@ -32,7 +32,9 @@ __Case 1: When transaction amount <$600:__
 
 allow more fraud trasctions to improve cusomer satisfaction (Higher Precision)
 
-__Case 2: When transaction amount >=$600:__ 
+
+__Case 2: When transaction amount >=$600:__
+
 allow less fraud trasctions to reduce money loss (Higher Recall)
 
 ## Future Work
