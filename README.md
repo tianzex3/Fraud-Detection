@@ -13,7 +13,7 @@ Method and Techniques: Oversampling, Logistic Regression, Decision Tree, Random 
 ~ 1 million transaction records
 
 ## The Objective
-The Chief Technology Officer of Broom Solutions, Glinda Broom, has requested your team provide a review of the credit card fraud detection approach and detail on the model or models being employed.
+The Chief Technology Officer of Broom Solutions, Glinda Broom, has requested your team find the reason for reducetion in revenue. After that, provide a review of the credit card fraud detection approach and detail on the model or models being employed.
 
 ## Problem
 __1. Too Good at Fraud Detection:__
