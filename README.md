@@ -30,12 +30,12 @@ Precision is more important in this case, where False Alarms (False Positives), 
 
 __Case 1: When transaction amount <$600:__ 
 
-&emsp; Allow __more__ fraud trasctions to improve cusomer satisfaction (Higher Precision, Giving up Recall)
+&emsp; Allow __more__ trasctions to improve cusomer satisfaction (Higher Precision to minimize false flagged transactions)
 
 
 __Case 2: When transaction amount >=$600:__
 
-&emsp; Allow __less__ fraud trasctions to reduce money loss (Higher Recall, Giving up Precision)
+&emsp; Allow __less__ fraud trasctions to reduce money loss (Higher Recall to reduce fraud transaction)
 
 ## Future Work
 Apply A/B testing to understand the performance of the new approach.
